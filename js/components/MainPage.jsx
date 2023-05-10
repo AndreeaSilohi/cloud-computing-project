@@ -43,7 +43,7 @@ return (
         Flower shop
       </h1>
       <p
-        className={"w-[1000px] mx-auto text-center mt-5 text-3xl text-pink-500"}
+        className={"w-[1000px] mx-auto text-center mt-5 text-3xl text-red-500"}
       >
         Welcome in our flower shop!
       </p>
